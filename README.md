@@ -39,7 +39,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 In future projects I want to continue to work on layout such as flexbox and grid to continue to grow as a front end developer using layouts
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
